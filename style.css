@@ -1,0 +1,11 @@
+body {
+	background-image: url(alfons-morales-410757-unsplash.jpg);
+	background-size: cover;
+}
+.btn-danger{
+	background-color: pink;
+}
+
+.container {
+	height: 30px;
+}
